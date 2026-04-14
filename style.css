@@ -45,6 +45,12 @@ body{
 
  }
 
+.menu ul li a:hover{
+      background-color:#4b88bb;
+      display:block;
+}
+
+
     .content{
       width:90%;
       margin:auto;
@@ -71,11 +77,11 @@ body{
  }
 
 .kanan{
-    width:70%
+    width:30%
     float:left;
     margin:auto;
     background:#fff;
-    height:420pc;
+    height:420px;
 }
 
 
