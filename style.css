@@ -14,7 +14,7 @@ body{
     color:#fff;
 }
 .jarak{ 
-   padding:0 2pc; 
+     padding:0 2pc; 
 
 }
 .menu{
@@ -37,7 +37,7 @@ body{
     color:#FFF;
     text-decoration:none;
 
- }
+}
 
 .menu ul li a:hover {
     background-color:#4b88bb;
@@ -61,7 +61,7 @@ body{
     padding-right:2pc;
 
 }
- .kiri{ 
+.kiri{ 
      width:70%
      float:left;
      margin:auto;
@@ -79,7 +79,7 @@ body{
 
 
 .undecor{
-     text-decoration:none;
+    text-decoration:none;
 }
 
 .footer{
