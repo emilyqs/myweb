@@ -4,7 +4,6 @@ body{
     width:100%;
     font-family:sans-serif:
     margin:0 auto;
-
 }
 
 .header{
@@ -14,7 +13,6 @@ body{
     background:#417aa8;
     color:#fff;
 }
-
 .jarak{ 
    padding:0 2pc; 
 
@@ -27,11 +25,7 @@ body{
     width:90%
     margin:0 auto;
     padding:0 auto;
-
-
-
 }
-
 .menu ul {
     list-style:none;
 }
@@ -45,36 +39,35 @@ body{
 
  }
 
-.menu ul li a:hover{
-      background-color:#4b88bb;
-      display:block;
+.menu ul li a:hover {
+    background-color:#4b88bb;
+    display:block;
 }
 
-
-    .content{
-      width:90%;
-      margin:auto;
-      height:420px;
-      padding:0.1px;
-      background:#fff;
-      color:#333;
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0.1px;
+    background:#fff;
+    color:#333;
 
 } 
 .border{
-      border:2px solid #4887b9;
-      margin-top:1pc;
-      padding-bottom:1pc;
-      padding-left:2pc;
-      padding-right:2pc;
+    border:2px solid #4887b9;
+    margin-top:1pc;
+    padding-bottom:1pc;
+    padding-left:2pc;
+    padding-right:2pc;
 
 }
  .kiri{ 
-    width:70%
-    float:left;
-    margin:auto;
-    background:#fff;
-    height:420px;
- }
+     width:70%
+     float:left;
+     margin:auto;
+     background:#fff;
+     height:420px;
+}
 
 .kanan{
     width:30%
