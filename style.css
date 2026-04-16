@@ -62,15 +62,6 @@ body{
 
 }
 
-.content {
-  float: left;
-  width: 70%;
-}
-
-.sidebar {
-  float: right;
-  width: 30%;
-}
 .kiri{ 
      width:70%
      float:left;
@@ -80,7 +71,7 @@ body{
 }
 
 .kanan{
-    width:50%
+    width:30%
     float:left;
     margin:auto;
     background:#fff;
